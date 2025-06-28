@@ -8,3 +8,5 @@ task0/.DS_Store
 task1/admin.ipynb
 task1/eval_true_targets_task1.csv
 task1/predictions_task1.csv
+.DS_Store
+.gitignore
