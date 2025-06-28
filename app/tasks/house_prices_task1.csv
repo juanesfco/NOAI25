@@ -1,8 +1,0 @@
-SquareFeet,Bedrooms,Price,Split
-1500,3,300000.0,train
-1600,3,320000.0,train
-1700,4,340000.0,train
-1800,4,360000.0,train
-2000,3,380000.0,train
-2100,4,,test
-2200,4,,test
