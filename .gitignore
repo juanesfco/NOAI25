@@ -10,3 +10,6 @@ task1/eval_true_targets_task1.csv
 task1/predictions_task1.csv
 .DS_Store
 .gitignore
+task2/eval_true_targets_task2.csv
+task2/admin.ipynb
+task2/predictions_task2.csv
